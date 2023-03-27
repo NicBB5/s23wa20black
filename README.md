@@ -1,2 +1,2 @@
 # s23wa20black
-It is friday!
+Render Server: https://s23wa20black.onrender.com
